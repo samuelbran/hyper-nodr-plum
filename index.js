@@ -65,7 +65,7 @@ exports.decorateConfig = config => {
         border-bottom: 1px solid #322F45;
       }
       .splitpane_divider {
-        background-color: #322F45 !important;
+        background-color: #2A2739 !important;
       }
       .tab_tab {
         border: 0;
@@ -77,7 +77,7 @@ exports.decorateConfig = config => {
         background-color: #332F44;
       }
       .tab_textActive {
-        background-color: #8A86A1;
+        background-color: #2A2739;
       }
       ${windowControlsCSS}
     `
