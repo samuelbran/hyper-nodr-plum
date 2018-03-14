@@ -10,7 +10,7 @@ const YELLOW = '#F8C555'
 const BLUE = '#4499CD'
 const MAGENTA = '#B35D8D'
 const LIGHT_GRAY = '#8A86A1'
-const DARK_GRAY = '#999999'
+const DARK_GRAY = '#6C687F'
 
 // Mapped Colors
 const colors = {
